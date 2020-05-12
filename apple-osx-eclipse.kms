@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE KeyboardMappingScheme>
-<!-- Written by Qt Creator 4.12.0, 2020-05-12T12:36:59. -->
+<!-- Written by Qt Creator 4.12.0, 2020-05-12T12:31:36. -->
 <mapping>
  <shortcut id="Git.Diff">
   <key value="Meta+G, Meta+D"/>
@@ -50,13 +50,13 @@
  </shortcut>
  <shortcut id="Qbs.BuildProductCtx"/>
  <shortcut id="QtCreator.Undo">
-  <key value="Meta+Z"/>
+  <key value="Ctrl+Z"/>
  </shortcut>
  <shortcut id="Qbs.BuildProduct">
   <key value="Ctrl+Alt+Shift+B"/>
  </shortcut>
  <shortcut id="QtCreator.Redo">
-  <key value="Meta+Shift+Z"/>
+  <key value="Ctrl+Shift+Z"/>
  </shortcut>
  <shortcut id="Qbs.CleanProductCtx"/>
  <shortcut id="QtCreator.Cut">
@@ -64,19 +64,19 @@
  </shortcut>
  <shortcut id="Qbs.CleanProduct"/>
  <shortcut id="QtCreator.Copy">
-  <key value="Meta+C"/>
+  <key value="Ctrl+C"/>
  </shortcut>
  <shortcut id="Qbs.RebuildProductCtx"/>
  <shortcut id="QtCreator.Paste">
-  <key value="Meta+V"/>
+  <key value="Ctrl+V"/>
  </shortcut>
  <shortcut id="Qbs.RebuildProduct"/>
  <shortcut id="QtCreator.SelectAll">
-  <key value="Meta+A"/>
+  <key value="Ctrl+A"/>
  </shortcut>
  <shortcut id="Qbs.BuildSubprojectCtx"/>
  <shortcut id="QtCreator.Goto">
-  <key value="Meta+L"/>
+  <key value="Ctrl+L"/>
  </shortcut>
  <shortcut id="Qbs.CleanSubprojectCtx"/>
  <shortcut id="QtCreator.ZoomIn">
@@ -93,7 +93,7 @@
   <key value="Ctrl+,"/>
  </shortcut>
  <shortcut id="QmlJSEditor.RenameUsages">
-  <key value="Alt+Shift+R"/>
+  <key value="Ctrl+Shift+R"/>
  </shortcut>
  <shortcut id="QmlJSEditor.RunSemanticScan">
   <key value="Ctrl+Shift+C"/>
@@ -378,7 +378,9 @@
   <key value="Meta+Shift+H"/>
  </shortcut>
  <shortcut id="ProjectExplorer.Rebuild"/>
- <shortcut id="FormEditor.LayoutVertically"/>
+ <shortcut id="FormEditor.LayoutVertically">
+  <key value="Meta+L"/>
+ </shortcut>
  <shortcut id="ProjectExplorer.RebuildProjectForAllConfigs"/>
  <shortcut id="FormEditor.SplitHorizontal"/>
  <shortcut id="ProjectExplorer.Clean"/>
@@ -388,7 +390,9 @@
  <shortcut id="ProjectExplorer.CancelBuild">
   <key value="Meta+Backspace"/>
  </shortcut>
- <shortcut id="FormEditor.LayoutGrid"/>
+ <shortcut id="FormEditor.LayoutGrid">
+  <key value="Meta+Shift+G"/>
+ </shortcut>
  <shortcut id="ProjectExplorer.Run">
   <key value="Ctrl+R"/>
  </shortcut>
@@ -457,7 +461,7 @@
  <shortcut id="ProjectExplorer.CleanSessionForAllConfigs"/>
  <shortcut id="Wizard.Impl.H.CppLibrary"/>
  <shortcut id="ProjectExplorer.Build">
-  <key value="Meta+B"/>
+  <key value="Ctrl+B"/>
  </shortcut>
  <shortcut id="Wizard.Impl.Z.NimProject"/>
  <shortcut id="Wizard.Impl.Z.NimbleProject"/>
@@ -664,9 +668,7 @@
  <shortcut id="Find.FindNext">
   <key value="Ctrl+G"/>
  </shortcut>
- <shortcut id="Find.FindPrevious">
-  <key value="Ctrl+Shift+G"/>
- </shortcut>
+ <shortcut id="Find.FindPrevious"/>
  <shortcut id="Find.FindNextSelected">
   <key value="Ctrl+F3"/>
  </shortcut>
@@ -932,7 +934,7 @@
  <shortcut id="QtCreator.Sidebar.Outline"/>
  <shortcut id="TextEditor.GotoNextCharacter"/>
  <shortcut id="QtCreator.Sidebar.Projects">
-  <key value="Meta+X"/>
+  <key value="Ctrl+X"/>
  </shortcut>
  <shortcut id="TextEditor.GotoPreviousWord"/>
  <shortcut id="QtCreator.Sidebar.File System"/>
@@ -996,7 +998,7 @@
  </shortcut>
  <shortcut id="Locator.Functions"/>
  <shortcut id="TextEditor.FindUsages">
-  <key value="Meta+Shift+G"/>
+  <key value="Ctrl+Shift+G"/>
  </shortcut>
  <shortcut id="Locator.Git"/>
  <shortcut id="TextEditor.JumpToFileUnderCursor">
