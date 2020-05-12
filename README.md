@@ -17,7 +17,7 @@ Qt Creator 4.12 keymaps, Only listed items are supported.
 - ctrl+v paste
 - ctrl+b build
 - shift+alt+r refactor.rename
-- ctrl+shift+g find references
+- ctrl+g find references
 - ctrl+l jump to line
 - ctrl+n new file 
 - ctrl+/ commentSelection (UnCommentSelection)
@@ -29,17 +29,34 @@ Qt Creator 4.12 keymaps, Only listed items are supported.
 - f6 step line
 - f7 step out
 - f8 run
-- cmd+z undo
-- cmd+shift+z redo (ctrl+y not support)
-- cmd+x cut
-- cmd+c copy
-- cmd+v paste
-- cmd+b build
-- shift+alt+r refactor.rename
-- cmd+shift+g find references
-- cmd+l jump to line
-- cmd+n new file 
-- cmd+/ commentSelection (UnCommentSelection)
+- cmd⌘+z undo
+- cmd⌘+shift⇧+z redo (ctrl+y not support)
+- cmd⌘+x cut
+- cmd⌘+c copy
+- cmd⌘+v paste
+- cmd⌘+b build
+- shift⇧+option⌥+r refactor.rename
+- cmd⌘+g find references
+- cmd⌘+l jump to line
+- cmd⌘+n new file 
+- cmd⌘+/ commentSelection (UnCommentSelection)
 
 ### Windows 
-**Eclipse** Preferences->Environment->Keyboard-> Import win-eclipse.kms (WIP)
+**Eclipse** Preferences->Environment->Keyboard-> Import win-eclipse.kms
+
+- f3 go define
+- f5 step in 
+- f6 step line
+- f7 step out
+- f8 run
+- ctrl+z undo
+- ctrl+shift+z redo (ctrl+y not support)
+- ctrl+x cut
+- ctrl+c copy
+- ctrl+v paste
+- ctrl+b build
+- shift+alt+r refactor.rename
+- ctrl+g find references
+- ctrl+l jump to line
+- ctrl+n new file 
+- ctrl+/ commentSelection (UnCommentSelection)
