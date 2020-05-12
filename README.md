@@ -21,6 +21,7 @@ Qt Creator 4.12 keymaps, Only listed items are supported.
 - ctrl+l jump to line
 - ctrl+n new file 
 - ctrl+/ commentSelection (UnCommentSelection)
+- alt+left/right go back/forward
 
 **OSX Eclipse** Preferences->Environment->Keyboard-> Import apple-osx-eclipse.kms
 
@@ -40,6 +41,7 @@ Qt Creator 4.12 keymaps, Only listed items are supported.
 - cmd⌘+l jump to line
 - cmd⌘+n new file 
 - cmd⌘+/ commentSelection (UnCommentSelection)
+- option⌥+left/right go back/forward
 
 ### Windows 
 **Eclipse** Preferences->Environment->Keyboard-> Import win-eclipse.kms
@@ -60,3 +62,4 @@ Qt Creator 4.12 keymaps, Only listed items are supported.
 - ctrl+l jump to line
 - ctrl+n new file 
 - ctrl+/ commentSelection (UnCommentSelection)
+- alt+left/right go back/forward
