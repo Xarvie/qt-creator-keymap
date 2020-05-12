@@ -44,7 +44,7 @@ Qt Creator 4.12 keymaps, Only listed items are supported.
 - option⌥+left/right go back/forward
 
 ### Windows 
-**Eclipse** Preferences->Environment->Keyboard-> Import win-eclipse.kms
+**Eclipse** Tools->Options...->Environment->Keyboard-> Import win-eclipse.kms
 
 - f3 go define
 - f5 step in 
