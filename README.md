@@ -1,8 +1,28 @@
 # qt-creator-keymap
 
+Qt Creator 4.12 keymaps, Only listed items are supported.
+
 ### APPLE 
 **Eclipse** Preferences->Environment->Keyboard-> Import apple-eclipse.kms
-f5 f6 f7 f8 ctrl+z ctrl+shift+z ctrl+x ctrl+c ctrl+v ctrl+b shift+alt+r ctrl+shift+g ctrl+l ctrl+n ctrl+/
+
+f3 go define
+
+f5 step in 
+f6 step line
+f7 step out
+f8 run
+
+ctrl+z undo
+ctrl+shift+z redo (ctrl+y not support)
+ctrl+x cut
+ctrl+c copy
+ctrl+v paste
+ctrl+b build
+shift+alt+r refactor.rename
+ctrl+shift+g find references
+ctrl+l jump to line
+ctrl+n new file 
+ctrl+/ commentSelection(UnCommentSelection)
 
 **OSX Eclipse** Preferences->Environment->Keyboard-> Import apple-osx-eclipse.kms
 
