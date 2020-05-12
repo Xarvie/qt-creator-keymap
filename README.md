@@ -7,23 +7,20 @@ Qt Creator 4.12 keymaps, Only listed items are supported.
 
 - f3 go define
 - f5 step in 
-f6 step line
-
-f7 step out
-
-f8 run
-
-ctrl+z undo
-ctrl+shift+z redo (ctrl+y not support)
-ctrl+x cut
-ctrl+c copy
-ctrl+v paste
-ctrl+b build
-shift+alt+r refactor.rename
-ctrl+shift+g find references
-ctrl+l jump to line
-ctrl+n new file 
-ctrl+/ commentSelection(UnCommentSelection)
+-f6 step line
+-f7 step out
+-f8 run
+-ctrl+z undo
+-ctrl+shift+z redo (ctrl+y not support)
+-ctrl+x cut
+-ctrl+c copy
+-ctrl+v paste
+-ctrl+b build
+-shift+alt+r refactor.rename
+-ctrl+shift+g find references
+-ctrl+l jump to line
+-ctrl+n new file 
+-ctrl+/ commentSelection (UnCommentSelection)
 
 **OSX Eclipse** Preferences->Environment->Keyboard-> Import apple-osx-eclipse.kms
 
