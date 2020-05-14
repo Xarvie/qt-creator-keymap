@@ -43,8 +43,8 @@ Qt Creator 4.12 keymaps, Only listed items are supported.
 - Cmd⌘+/ commentSelection (UnCommentSelection)
 - Option⌥+Left/Right go back/forward
 
-### Windows 
-**Eclipse** Tools->Options...->Environment->Keyboard-> Import win-eclipse.kms
+### Windows and Linux
+**Eclipse** Tools->Options...->Environment->Keyboard-> Import win-linux-eclipse.kms
 
 - F3 go define
 - F5 step in 
