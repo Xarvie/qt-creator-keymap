@@ -1,6 +1,6 @@
 # qt-creator-keymap
 
-Qt Creator 4.12 keymaps, Only listed items are supported.
+Qt 5.x(Creator 4.x)keymaps, Only listed items are supported.
 
 ### APPLE 
 **Eclipse** Preferences->Environment->Keyboard-> Import apple-eclipse.kms
