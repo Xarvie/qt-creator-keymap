@@ -11,7 +11,7 @@ Qt Creator keymaps, Only listed items are supported.
 - F7 step out
 - F8 run
 - Ctrl+Z undo
-- Ctrl+Y redo (ctrl+shift+z not support)
+- Ctrl+Y redo (Ctrl+Shift+Z not support)
 - Ctrl+X cut
 - Ctrl+C copy
 - Ctrl+V paste
@@ -31,7 +31,7 @@ Qt Creator keymaps, Only listed items are supported.
 - F7 step out
 - F8 run
 - Cmd⌘+Z undo
-- Cmd⌘+Y redo (cmd⌘+shift⇧+z not support)
+- Cmd⌘+Y redo (cmd⌘+shift⇧+Z not support)
 - Cmd⌘+X cut
 - Cmd⌘+C copy
 - Cmd⌘+V paste
@@ -52,7 +52,7 @@ Qt Creator keymaps, Only listed items are supported.
 - F7 step out
 - F8 run
 - Ctrl+Z undo
-- Ctrl+Y redo (ctrl+shift+z not support)
+- Ctrl+Y redo (Ctrl+Shift+Z not support)
 - Ctrl+X cut
 - Ctrl+C copy
 - Ctrl+V paste
