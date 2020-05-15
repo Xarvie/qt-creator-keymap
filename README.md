@@ -2,32 +2,8 @@
 
 Qt Creator keymaps, Only listed items are supported.
 
-### APPLE 
+### APPLE Keyboard
 **Eclipse** Preferences->Environment->Keyboard-> Import apple-eclipse.kms
-
-- F3 go define
-- F5 step in 
-- F6 step line
-- F7 step out
-- F8 run
-- Ctrl+Z undo
-- Ctrl+Y redo (Ctrl+Shift+Z not support)
-- Ctrl+X cut
-- Ctrl+C copy
-- Ctrl+V paste
-- Ctrl+B build
-- Shift+Alt+R refactor.rename
-- Ctrl+G find references
-- Ctrl+L jump to line
-- Ctrl+N new file 
-- Ctrl+/ commentSelection (UnCommentSelection)
-- Alt+Left/Right go back/forward
-- Ctrl+Shift+R Locate
-- Ctrl+Shift+F indent
-- Ctrl+F search
-- Ctrl+H search Ex
-
-**OSX Eclipse** Preferences->Environment->Keyboard-> Import apple-osx-eclipse.kms
 
 - F3 go define
 - F5 step in 
@@ -51,8 +27,8 @@ Qt Creator keymaps, Only listed items are supported.
 - Cmd⌘+F search
 - Cmd⌘+H search Ex
 
-### Windows and Linux
-**Eclipse** Tools->Options...->Environment->Keyboard-> Import win-linux-eclipse.kms
+### Windows and Linux and OSX
+**Eclipse** Tools->Options...->Environment->Keyboard-> Import win-osx-linux-eclipse
 
 - F3 go define
 - F5 step in 
