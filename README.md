@@ -22,6 +22,10 @@ Qt Creator keymaps, Only listed items are supported.
 - Ctrl+N new file 
 - Ctrl+/ commentSelection (UnCommentSelection)
 - Alt+Left/Right go back/forward
+- Ctrl+Shift+R Locate
+- Ctrl+Shift+F indent
+- Ctrl+F search
+- Ctrl+H search Ex
 
 **OSX Eclipse** Preferences->Environment->Keyboard-> Import apple-osx-eclipse.kms
 
@@ -42,6 +46,10 @@ Qt Creator keymaps, Only listed items are supported.
 - Cmd⌘+N new file 
 - Cmd⌘+/ commentSelection (UnCommentSelection)
 - Option⌥+Left/Right go back/forward
+- Cmd⌘+Shift⇧+R Locate
+- Cmd⌘+Shift⇧+F indent
+- Cmd⌘+F search
+- Cmd⌘+H search Ex
 
 ### Windows and Linux
 **Eclipse** Tools->Options...->Environment->Keyboard-> Import win-linux-eclipse.kms
@@ -63,3 +71,7 @@ Qt Creator keymaps, Only listed items are supported.
 - Ctrl+N new file 
 - Ctrl+/ commentSelection (UnCommentSelection)
 - Alt+Left/Right go back/forward
+- Ctrl+Shift+R Locate
+- Ctrl+Shift+F indent
+- Ctrl+F search
+- Ctrl+H search Ex
